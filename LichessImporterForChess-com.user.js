@@ -6,6 +6,7 @@
 // @encoding     utf-8
 // @description  Adds button to import Chess.com game to Lichess
 // @author       KaranveerB
+// @license      MIT
 // @match        https://www.chess.com/game/live/*
 // @downloadURL  https://github.com/KaranveerB/Lichess-Importer-for-Chess.com/LichessImporterForChess-com.user.js
 // @updateURL    https://github.com/KaranveerB/Lichess-Importer-for-Chess.com/LichessImporterForChess-com.user.js
