@@ -9,7 +9,7 @@
 // @match        https://www.chess.com/game/live/*
 // @downloadURL  https://github.com/KaranveerB/Lichess-Importer-for-Chess.com/LichessImporterForChess-com.user.js
 // @updateURL    https://github.com/KaranveerB/Lichess-Importer-for-Chess.com/LichessImporterForChess-com.user.js
-// @grant        GM.xmlHttpRequest
+// @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
 "use strict";
