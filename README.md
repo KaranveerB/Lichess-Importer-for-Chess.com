@@ -23,6 +23,7 @@ Some other popular options are [Tampermonkey](https://www.tampermonkey.net/) (no
 After installing a userscript support manager, you can [click here to install](https://github.com/KaranveerB/Lichess-Importer-for-Chess.com/raw/master/LichessImporterForChess-com.user.js).
 
 ## TODO
+- Fix needing to reload to see button (clicking a new game doesn't actually redirect, hence doesn't load)
 - Deter cheating with better design
 - Determine better way to load script (currently waits 3 seconds for certain elements to load)
 - Get imports with timestamps working (if Lichess supports it)
