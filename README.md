@@ -11,6 +11,9 @@ On a live game page, click the "Import to Lichess" button in the sidebar on Ches
 
 ![example screenshot](example.png)
 
+BUG: Currently, you may need to reload once when either during or after a game (particularly on a chess.com/game/live/* url) to use the button (keep in mind the button also takes 3 seconds to appear).
+This particularly occurs when pressing "Play" from the main menu.
+
 You may need to manually enable popups for the page in your browser for this to work. Please only use this for post-game analysis and do not use this to cheat.
 
 ## Installation
